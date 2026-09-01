@@ -1,0 +1,9422 @@
+{
+ "stand": "2026-09-01 15:37",
+ "spieltag": 2,
+ "erledigt": {
+  "PL": [
+   1,
+   2
+  ]
+ },
+ "spieler": [
+  {
+   "id": "PL-411",
+   "name": "Haaland",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 131.2,
+   "historie": [
+    2,
+    10
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-426",
+   "name": "B.Fernandes",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 109.3,
+   "historie": [
+    2,
+    20
+   ],
+   "gesamt": 22,
+   "punkte": 11.0
+  },
+  {
+   "id": "PL-154",
+   "name": "Palmer",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 78.2,
+   "historie": [
+    10,
+    7
+   ],
+   "gesamt": 17,
+   "punkte": 8.5
+  },
+  {
+   "id": "PL-12",
+   "name": "Saka",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 77.0,
+   "historie": [
+    8,
+    8
+   ],
+   "gesamt": 16,
+   "punkte": 8.0
+  },
+  {
+   "id": "PL-379",
+   "name": "Isak",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 59.3,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-480",
+   "name": "Gibbs-White",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 58.2,
+   "historie": [
+    2,
+    10
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-4",
+   "name": "Gabriel",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 57.0,
+   "historie": [
+    5,
+    6
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-427",
+   "name": "Mbeumo",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 57.0,
+   "historie": [
+    2,
+    9
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-399",
+   "name": "Cherki",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 56.2,
+   "historie": [
+    7,
+    11
+   ],
+   "gesamt": 18,
+   "punkte": 9.0
+  },
+  {
+   "id": "PL-165",
+   "name": "João Pedro",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 55.1,
+   "historie": [
+    9,
+    7
+   ],
+   "gesamt": 16,
+   "punkte": 8.0
+  },
+  {
+   "id": "PL-428",
+   "name": "Cunha",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 55.1,
+   "historie": [
+    2,
+    8
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-627",
+   "name": "Barcola",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 54.1,
+   "historie": [],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-40",
+   "name": "Rogers",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 54.0,
+   "historie": [
+    7,
+    5
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-397",
+   "name": "Semenyo",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 53.5,
+   "historie": [
+    2,
+    5
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-106",
+   "name": "Thiago",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 48.7,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-367",
+   "name": "Gakpo",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 48.7,
+   "historie": [
+    7,
+    5
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-26",
+   "name": "Havertz",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 47.7,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-55",
+   "name": "Watkins",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 46.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-368",
+   "name": "Szoboszlai",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 45.9,
+   "historie": [
+    7,
+    2
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-398",
+   "name": "Foden",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 45.9,
+   "historie": [
+    1,
+    8
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-15",
+   "name": "Ødegaard",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 44.6,
+   "historie": [
+    8,
+    3
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-13",
+   "name": "Rice",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 44.3,
+   "historie": [
+    3,
+    3
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-366",
+   "name": "Wirtz",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 44.3,
+   "historie": [
+    2,
+    4
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-380",
+   "name": "Ekitiké",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 44.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-236",
+   "name": "Dewsbury-Hall",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 43.6,
+   "historie": [
+    8,
+    2
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-377",
+   "name": "Munoz",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 43.6,
+   "historie": [
+    4,
+    6
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-25",
+   "name": "Gyökeres",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 43.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-78",
+   "name": "Kroupi.Jr",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 43.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-400",
+   "name": "Doku",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 43.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-156",
+   "name": "Neto",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 40.6,
+   "historie": [
+    1,
+    7
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-429",
+   "name": "Rashford",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 39.8,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-439",
+   "name": "Šeško",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 39.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-401",
+   "name": "Marmoush",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 39.8,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-454",
+   "name": "Elanga",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 39.6,
+   "historie": [
+    7,
+    8
+   ],
+   "gesamt": 15,
+   "punkte": 7.5
+  },
+  {
+   "id": "PL-464",
+   "name": "Wissa",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 39.6,
+   "historie": [
+    4,
+    6
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-452",
+   "name": "Bruno G.",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 39.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-155",
+   "name": "Enzo",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 39.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-1",
+   "name": "Raya",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    6,
+    6
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-69",
+   "name": "Scott",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    2,
+    7
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-79",
+   "name": "Evanilson",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    4,
+    5
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-94",
+   "name": "Schade",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    3,
+    7
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-123",
+   "name": "Hinshelwood",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 38.6,
+   "historie": [
+    13,
+    0
+   ],
+   "gesamt": 13,
+   "punkte": 6.5
+  },
+  {
+   "id": "PL-229",
+   "name": "Tarkowski",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    6,
+    8
+   ],
+   "gesamt": 14,
+   "punkte": 7.0
+  },
+  {
+   "id": "PL-335",
+   "name": "Stach",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    8,
+    2
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-388",
+   "name": "Guéhi",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 38.6,
+   "historie": [
+    8,
+    2
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-557",
+   "name": "Tzolis",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 37.2,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-68",
+   "name": "Tavernier",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 37.2,
+   "historie": [
+    7,
+    1
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-237",
+   "name": "Ndiaye",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 37.2,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-569",
+   "name": "Gonzalo",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 37.2,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-5",
+   "name": "J.Timber",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 35.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-166",
+   "name": "N.Jackson",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-67",
+   "name": "Rayan",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-95",
+   "name": "O.Dango",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    3,
+    1
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-260",
+   "name": "Wilson",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    3,
+    1
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-356",
+   "name": "Virgil",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-238",
+   "name": "Grealish",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-387",
+   "name": "O'Reilly",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-402",
+   "name": "Rodrigo",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 35.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-403",
+   "name": "Sávio",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 35.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-512",
+   "name": "Kudus",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.6,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-521",
+   "name": "Kulusevski",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 35.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-346",
+   "name": "Calvert-Lewin",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 35.5,
+   "historie": [
+    1,
+    6
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-628",
+   "name": "Allan",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 35.1,
+   "historie": [],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-8",
+   "name": "Calafiori",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    9,
+    9
+   ],
+   "gesamt": 18,
+   "punkte": 9.0
+  },
+  {
+   "id": "PL-14",
+   "name": "Eze",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-16",
+   "name": "Madueke",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-18",
+   "name": "Martinelli",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-565",
+   "name": "M.Sangaré",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    9,
+    2
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-157",
+   "name": "Estêvão",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-208",
+   "name": "Sarr",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 34.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-223",
+   "name": "Mateta",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 34.8,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-391",
+   "name": "Gvardiol",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    8,
+    5
+   ],
+   "gesamt": 13,
+   "punkte": 6.5
+  },
+  {
+   "id": "PL-481",
+   "name": "Anderson",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 34.8,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-515",
+   "name": "Maddison",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 34.8,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-10",
+   "name": "White",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    9,
+    6
+   ],
+   "gesamt": 15,
+   "punkte": 7.5
+  },
+  {
+   "id": "PL-11",
+   "name": "Mosquera",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    6,
+    6
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-86",
+   "name": "Lewis-Potter",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    8,
+    5
+   ],
+   "gesamt": 13,
+   "punkte": 6.5
+  },
+  {
+   "id": "PL-124",
+   "name": "Groß",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    2,
+    10
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-226",
+   "name": "Pickford",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    7,
+    3
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-230",
+   "name": "Branthwaite",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-249",
+   "name": "Barry",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-268",
+   "name": "King",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    7,
+    2
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-591",
+   "name": "Enciso",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    5,
+    5
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-483",
+   "name": "Ndoye",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    3,
+    7
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-544",
+   "name": "Xhaka",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.9,
+   "historie": [
+    5,
+    3
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-70",
+   "name": "Kluivert",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.8,
+   "historie": [
+    3,
+    3
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-200",
+   "name": "Lacroix",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 33.8,
+   "historie": [
+    5,
+    1
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-371",
+   "name": "Gravenberch",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 33.8,
+   "historie": [
+    5,
+    1
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-84",
+   "name": "Collins",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 32.3,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-316",
+   "name": "Emersonn",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 32.3,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-453",
+   "name": "Barnes",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 32.2,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-6",
+   "name": "Saliba",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-41",
+   "name": "Buendía",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-618",
+   "name": "Goretzka",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-81",
+   "name": "Rodríguez",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-105",
+   "name": "Anthony",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-121",
+   "name": "Mitoma",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-594",
+   "name": "David",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-222",
+   "name": "Strand Larsen",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-239",
+   "name": "Garner",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-389",
+   "name": "Matheus N.",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-404",
+   "name": "Reijnders",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-43",
+   "name": "Tielemans",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-465",
+   "name": "Osula",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    4,
+    0
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-491",
+   "name": "Igor Jesus",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-498",
+   "name": "Senesi",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-513",
+   "name": "Xavi",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 31.6,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-542",
+   "name": "E.Le Fée",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-552",
+   "name": "Brobbey",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 31.6,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-17",
+   "name": "Merino",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-27",
+   "name": "G.Jesus",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-53",
+   "name": "Manzambi",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-160",
+   "name": "Garnacho",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-122",
+   "name": "Minteh",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-136",
+   "name": "Welbeck",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-158",
+   "name": "Gittens",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-209",
+   "name": "Johnson",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-336",
+   "name": "Okafor",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-369",
+   "name": "Ngumoha",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-415",
+   "name": "Dorgu",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-431",
+   "name": "Amad",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 30.8,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-457",
+   "name": "J.Murphy",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-461",
+   "name": "Touré",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-463",
+   "name": "Woltemade",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    4
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-482",
+   "name": "Hudson-Odoi",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-490",
+   "name": "Wood",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-514",
+   "name": "Tel",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-525",
+   "name": "Fernandes",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-526",
+   "name": "Solanke",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-527",
+   "name": "Richarlison",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.8,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-7",
+   "name": "Lewis-Skelly",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    3,
+    3
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-97",
+   "name": "Jensen",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 30.6,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-138",
+   "name": "Kostoulas",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    1,
+    5
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-211",
+   "name": "Yeremy",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    1,
+    5
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-295",
+   "name": "McBurnie",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    5,
+    1
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-313",
+   "name": "Clarke",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-315",
+   "name": "Fatawu",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    2,
+    4
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-533",
+   "name": "Mukiele",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    0,
+    6
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-553",
+   "name": "Isidor",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 30.6,
+   "historie": [
+    1,
+    5
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-82",
+   "name": "Kelleher",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    7,
+    2
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-98",
+   "name": "Janelt",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    7,
+    1
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-127",
+   "name": "Gomez",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    6,
+    5
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-161",
+   "name": "Lavia",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    1,
+    7
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-244",
+   "name": "Armstrong",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-286",
+   "name": "Belloumi",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    3,
+    6
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-334",
+   "name": "Muharemović",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-385",
+   "name": "Trafford",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    7,
+    3
+   ],
+   "gesamt": 10,
+   "punkte": 5.0
+  },
+  {
+   "id": "PL-445",
+   "name": "Thiaw",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-449",
+   "name": "Hall",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-460",
+   "name": "Willock",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    6,
+    3
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-567",
+   "name": "Horníček",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    2,
+    7
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-529",
+   "name": "Roefs",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-551",
+   "name": "Angulo",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.4,
+   "historie": [
+    5,
+    3
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-130",
+   "name": "Wieffer",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-504",
+   "name": "Vuskovic",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-327",
+   "name": "Bijol",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-418",
+   "name": "Maguire",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    2,
+    5
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-447",
+   "name": "Botman",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    2,
+    5
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-469",
+   "name": "N.Williams",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    2,
+    5
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-532",
+   "name": "Ballard",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 29.2,
+   "historie": [
+    1,
+    6
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-125",
+   "name": "Georginio",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 29.0,
+   "historie": [
+    5,
+    0
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-242",
+   "name": "George",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.0,
+   "historie": [
+    3,
+    2
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-264",
+   "name": "Bobb",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.0,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-338",
+   "name": "Ampadu",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.0,
+   "historie": [
+    3,
+    2
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-486",
+   "name": "McAtee",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 29.0,
+   "historie": [
+    3,
+    2
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-543",
+   "name": "Diarra",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 29.0,
+   "historie": [
+    1,
+    4
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-23",
+   "name": "Fábio Vieira",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-24",
+   "name": "Nelson",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-44",
+   "name": "Bailey",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-45",
+   "name": "McGinn",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-54",
+   "name": "Gomes",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    -2,
+    0
+   ],
+   "gesamt": -2,
+   "punkte": -1.0
+  },
+  {
+   "id": "PL-56",
+   "name": "Abraham",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-582",
+   "name": "Madjo",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-60",
+   "name": "Hill",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-61",
+   "name": "Truffert",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-80",
+   "name": "Enes Ünal",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-96",
+   "name": "Damsgaard",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    3
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-108",
+   "name": "Wilson",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-126",
+   "name": "O'Riley",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-129",
+   "name": "Ayari",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-137",
+   "name": "Tzimas",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-142",
+   "name": "James",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-143",
+   "name": "Chalobah",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-568",
+   "name": "Barco",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-186",
+   "name": "Mason-Clark",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-188",
+   "name": "Torp",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-190",
+   "name": "Tchaouna",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-492",
+   "name": "Awoniyi",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-584",
+   "name": "Hamer",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-42",
+   "name": "Guessand",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-210",
+   "name": "Wharton",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-224",
+   "name": "Nketiah",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-241",
+   "name": "McNeil",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-247",
+   "name": "Hackney",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    3,
+    1
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-261",
+   "name": "Iwobi",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-262",
+   "name": "Smith Rowe",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-263",
+   "name": "Kevin",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-271",
+   "name": "Muniz",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-570",
+   "name": "Palacios",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-318",
+   "name": "Philogene",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-562",
+   "name": "Maeda",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-337",
+   "name": "Aaronson",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    3,
+    1
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-347",
+   "name": "Nmecha",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    4
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-350",
+   "name": "A.Becker",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    3,
+    1
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-357",
+   "name": "Frimpong",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-358",
+   "name": "Kerkez",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-372",
+   "name": "Mac Allister",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-373",
+   "name": "C.Jones",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-579",
+   "name": "Araujo",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-384",
+   "name": "Donnarumma",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    3,
+    0
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-390",
+   "name": "Rúben",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-393",
+   "name": "Khusanov",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-406",
+   "name": "Kovačić",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-616",
+   "name": "Bouaddi",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-430",
+   "name": "Mount",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-432",
+   "name": "Mainoo",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-405",
+   "name": "N.Gonzalez",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-459",
+   "name": "L.Miley",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    3
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-167",
+   "name": "Delap",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-471",
+   "name": "Milenković",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-472",
+   "name": "Murillo",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-485",
+   "name": "Bakwa",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-493",
+   "name": "Kalimuendo",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-581",
+   "name": "Diomande",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-499",
+   "name": "Pedro Porro",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-516",
+   "name": "Bentancur",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-517",
+   "name": "Odobert",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.7,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-520",
+   "name": "Bergvall",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.7,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-71",
+   "name": "Cook",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.5,
+   "historie": [
+    3,
+    3
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-287",
+   "name": "Millar",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.5,
+   "historie": [
+    0,
+    6
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-267",
+   "name": "Lukić",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.5,
+   "historie": [
+    5,
+    1
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-320",
+   "name": "Akpom",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.5,
+   "historie": [
+    1,
+    5
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-9",
+   "name": "Hincapie",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-19",
+   "name": "Zubimendi",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-20",
+   "name": "Dowman",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-22",
+   "name": "Nwaneri",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-152",
+   "name": "Palestra",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-159",
+   "name": "Caicedo",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-164",
+   "name": "Quenda",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-578",
+   "name": "Mudryk",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-193",
+   "name": "Wright",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-245",
+   "name": "Dibling",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-248",
+   "name": "Beto",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-370",
+   "name": "Chiesa",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-383",
+   "name": "Elliott",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-392",
+   "name": "Aït-Nouri",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-440",
+   "name": "Zirkzee",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-458",
+   "name": "Joelinton",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-201",
+   "name": "Muñoz",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-484",
+   "name": "Hutchinson",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-455",
+   "name": "Tonali",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-519",
+   "name": "Gallagher",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-549",
+   "name": "Talbi",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 27.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-115",
+   "name": "De Cuyper",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 26.8,
+   "historie": [
+    15,
+    1
+   ],
+   "gesamt": 16,
+   "punkte": 8.0
+  },
+  {
+   "id": "PL-88",
+   "name": "Kayode",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.9,
+   "historie": [
+    12,
+    2
+   ],
+   "gesamt": 14,
+   "punkte": 7.0
+  },
+  {
+   "id": "PL-198",
+   "name": "Henderson",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 25.9,
+   "historie": [
+    3,
+    2
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-246",
+   "name": "Röhl",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 25.9,
+   "historie": [
+    3,
+    2
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-412",
+   "name": "Lammens",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 25.9,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-545",
+   "name": "Sadiki",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 25.9,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-87",
+   "name": "Ajer",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-109",
+   "name": "Verbruggen",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-605",
+   "name": "Yalcouyé",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    1,
+    7
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-233",
+   "name": "Mykolenko",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-258",
+   "name": "Castagne",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    6
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-290",
+   "name": "Slater",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-572",
+   "name": "Tzolakis",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    7,
+    7
+   ],
+   "gesamt": 14,
+   "punkte": 7.0
+  },
+  {
+   "id": "PL-329",
+   "name": "Rodon",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 25.1,
+   "historie": [
+    6,
+    1
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-330",
+   "name": "Bogle",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-332",
+   "name": "Justin",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    6,
+    2
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-593",
+   "name": "Dedić",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    2,
+    9
+   ],
+   "gesamt": 11,
+   "punkte": 5.5
+  },
+  {
+   "id": "PL-534",
+   "name": "Hume",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-536",
+   "name": "Reinildo",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-541",
+   "name": "Meunier",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 25.1,
+   "historie": [
+    2,
+    6
+   ],
+   "gesamt": 8,
+   "punkte": 4.0
+  },
+  {
+   "id": "PL-57",
+   "name": "Petrović",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.6,
+   "historie": [
+    3,
+    3
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-114",
+   "name": "Boscagli",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.6,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-116",
+   "name": "Dunk",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.6,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-148",
+   "name": "Hato",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.6,
+   "historie": [
+    2,
+    4
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-473",
+   "name": "Aina",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.6,
+   "historie": [
+    5,
+    1
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-46",
+   "name": "Barkley",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-47",
+   "name": "Kamara",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-183",
+   "name": "Rudoni",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    1,
+    3
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-184",
+   "name": "Grimes",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-575",
+   "name": "Yirenkyi",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    1,
+    3
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-265",
+   "name": "Berge",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-309",
+   "name": "Núñez",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-362",
+   "name": "Jacquet",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-467",
+   "name": "Sels",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-522",
+   "name": "Gray",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-2",
+   "name": "Arrizabalaga",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-3",
+   "name": "Meslier",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-35",
+   "name": "Bogarde",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-48",
+   "name": "Onana",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-49",
+   "name": "Iling Jr",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-52",
+   "name": "Alysson",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-597",
+   "name": "Suzuki",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-62",
+   "name": "Diakité",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-63",
+   "name": "Milosavljević",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-72",
+   "name": "Gannon-Doak",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-73",
+   "name": "Adams",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-74",
+   "name": "Brooks",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-75",
+   "name": "Christie",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-76",
+   "name": "Tóth.A",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-566",
+   "name": "Silva",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-608",
+   "name": "Jebbison",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-99",
+   "name": "Milambo",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-100",
+   "name": "Carvalho",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-102",
+   "name": "Yarmoliuk",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-103",
+   "name": "Dasilva",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-120",
+   "name": "Svoboda",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-128",
+   "name": "Buonanotte",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-133",
+   "name": "Watson",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-135",
+   "name": "Yohanna",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-139",
+   "name": "Ferguson",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-328",
+   "name": "Struijk",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-600",
+   "name": "Osman",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-624",
+   "name": "Cozier-Duberry",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-28",
+   "name": "Martinez",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-101",
+   "name": "Henderson",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-141",
+   "name": "Jörgensen",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-144",
+   "name": "Gusto",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-145",
+   "name": "Fofana",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-149",
+   "name": "Colwill",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-168",
+   "name": "Marc Guiu",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-170",
+   "name": "Emegha",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-583",
+   "name": "Chavarria",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-104",
+   "name": "Onyeka",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-185",
+   "name": "Sakamoto",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-194",
+   "name": "Thomas-Asante",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-195",
+   "name": "Simms",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-196",
+   "name": "Markelo",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-599",
+   "name": "Cherif",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-202",
+   "name": "Richards",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-203",
+   "name": "Canvot",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-213",
+   "name": "Lerma",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-214",
+   "name": "Kamada",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-215",
+   "name": "Devenny",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-216",
+   "name": "Esse",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-219",
+   "name": "J.Rak-Sakyi",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-225",
+   "name": "Uche",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-588",
+   "name": "Khalaili",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-595",
+   "name": "Gozo",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-21",
+   "name": "Nørgaard",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-227",
+   "name": "Travers",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-240",
+   "name": "Iroegbunam",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-243",
+   "name": "Alcaraz",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-253",
+   "name": "Andersen",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-266",
+   "name": "Cairney",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-580",
+   "name": "Charles",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-292",
+   "name": "Ömür",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-293",
+   "name": "Kamara",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-296",
+   "name": "Akintola",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-340",
+   "name": "Gelhardt",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-563",
+   "name": "Morita",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-574",
+   "name": "Hjertø-Dahl",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-576",
+   "name": "Stroud",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    3,
+    0
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-589",
+   "name": "Gourna-Douath",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-617",
+   "name": "Cho",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-310",
+   "name": "Matusiwa",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-311",
+   "name": "Burns",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-314",
+   "name": "Ogbene",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-317",
+   "name": "Hirst",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-319",
+   "name": "Szmodics",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-322",
+   "name": "Al-Hamadi",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-324",
+   "name": "Mehmeti",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-571",
+   "name": "Florentino",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-619",
+   "name": "Palacios",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-339",
+   "name": "Longstaff",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-341",
+   "name": "Gnonto",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-342",
+   "name": "Harrison",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-343",
+   "name": "James",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-344",
+   "name": "Gruev",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-348",
+   "name": "Piroe",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-351",
+   "name": "Mamardashvili",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-359",
+   "name": "Gomez",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-360",
+   "name": "Bradley",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-364",
+   "name": "Tsimikas",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-374",
+   "name": "Endo",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-375",
+   "name": "Nyoni",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-376",
+   "name": "Bajcetic",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-381",
+   "name": "Koumas",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-394",
+   "name": "Alleyne",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-407",
+   "name": "Echeverri",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-408",
+   "name": "Phillips",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-587",
+   "name": "Rulli",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-131",
+   "name": "Baleba",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-162",
+   "name": "Andrey Santos",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-416",
+   "name": "De Ligt",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-417",
+   "name": "Dalot",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-419",
+   "name": "Martinez",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-433",
+   "name": "Ugarte",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-434",
+   "name": "J.Fletcher",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-435",
+   "name": "Lacey",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-436",
+   "name": "Collyer",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-442",
+   "name": "Pope",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-446",
+   "name": "Schär",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-450",
+   "name": "Livramento",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-456",
+   "name": "J.Ramsey",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-462",
+   "name": "Steur",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-559",
+   "name": "Bamba",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-470",
+   "name": "Morato",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-487",
+   "name": "Dominguez",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-488",
+   "name": "I.Sangaré",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-558",
+   "name": "Schlager",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-112",
+   "name": "Van Hecke",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-500",
+   "name": "Romero",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-501",
+   "name": "Danso",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-503",
+   "name": "Van de Ven",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-523",
+   "name": "Moore",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-535",
+   "name": "Alderete",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-547",
+   "name": "Mundle",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-548",
+   "name": "Rigg",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-550",
+   "name": "Jocelin.T",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 24.0,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-77",
+   "name": "Adli",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-85",
+   "name": "Van den Berg",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-140",
+   "name": "Sánchez",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    3,
+    0
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-187",
+   "name": "Eccles",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-217",
+   "name": "M.França",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-218",
+   "name": "Doucouré",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-231",
+   "name": "Keane",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-232",
+   "name": "O'Brien",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-345",
+   "name": "Tanaka",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-410",
+   "name": "Monga",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-420",
+   "name": "Yoro",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-448",
+   "name": "Burn",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-518",
+   "name": "P.M.Sarr",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-546",
+   "name": "Adingra",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 23.3,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-250",
+   "name": "Leno",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 23.0,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-564",
+   "name": "Scherpen",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 23.0,
+   "historie": [
+    2,
+    3
+   ],
+   "gesamt": 5,
+   "punkte": 2.5
+  },
+  {
+   "id": "PL-279",
+   "name": "Ajayi",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.8,
+   "historie": [
+    12,
+    6
+   ],
+   "gesamt": 18,
+   "punkte": 9.0
+  },
+  {
+   "id": "PL-51",
+   "name": "George Hemmings",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 21.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-423",
+   "name": "Shaw",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-496",
+   "name": "Kinsky",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 21.5,
+   "historie": [
+    2,
+    2
+   ],
+   "gesamt": 4,
+   "punkte": 2.0
+  },
+  {
+   "id": "PL-173",
+   "name": "Thomas",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.0,
+   "historie": [
+    1,
+    6
+   ],
+   "gesamt": 7,
+   "punkte": 3.5
+  },
+  {
+   "id": "PL-277",
+   "name": "Egan",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.0,
+   "historie": [
+    6,
+    6
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-280",
+   "name": "Coyle",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 21.0,
+   "historie": [
+    6,
+    0
+   ],
+   "gesamt": 6,
+   "punkte": 3.0
+  },
+  {
+   "id": "PL-282",
+   "name": "Giles",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.0,
+   "historie": [
+    6,
+    6
+   ],
+   "gesamt": 12,
+   "punkte": 6.0
+  },
+  {
+   "id": "PL-586",
+   "name": "Mendy",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.0,
+   "historie": [
+    12,
+    1
+   ],
+   "gesamt": 13,
+   "punkte": 6.5
+  },
+  {
+   "id": "PL-305",
+   "name": "Davis",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 21.0,
+   "historie": [
+    2,
+    7
+   ],
+   "gesamt": 9,
+   "punkte": 4.5
+  },
+  {
+   "id": "PL-29",
+   "name": "M.Bizot",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-30",
+   "name": "Digne",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-32",
+   "name": "Cash",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-33",
+   "name": "Mings",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-34",
+   "name": "Pau",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-36",
+   "name": "Maatsen",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-37",
+   "name": "Lindelöf",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    -1,
+    2
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-50",
+   "name": "Burrowes",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-596",
+   "name": "Ruggeri",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-607",
+   "name": "Lynch",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-611",
+   "name": "Wan-Bissaka",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-64",
+   "name": "Smith",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-65",
+   "name": "J.Araujo",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-573",
+   "name": "Sanchez",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-615",
+   "name": "Di Gregorio",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-83",
+   "name": "Valdimarsson",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-89",
+   "name": "Henry",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-90",
+   "name": "Hickey",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-92",
+   "name": "Ji-soo",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-93",
+   "name": "Schuster",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-107",
+   "name": "Furo",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-620",
+   "name": "Diouf",
+   "verein": "Brentford",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-117",
+   "name": "Coppola",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-118",
+   "name": "Igor",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-119",
+   "name": "Costinha",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-132",
+   "name": "Howell",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-134",
+   "name": "Oriola",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-614",
+   "name": "Hadjam",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-146",
+   "name": "B.Badiashile",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-147",
+   "name": "Tosin",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-150",
+   "name": "M.Sarr",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-151",
+   "name": "Acheampong",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-163",
+   "name": "D.Essugo",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-169",
+   "name": "Mheuka",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-560",
+   "name": "Penders",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-561",
+   "name": "Anselmino",
+   "verein": "Chelsea",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-91",
+   "name": "Pinnock",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-110",
+   "name": "Rushworth",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-172",
+   "name": "Wilson",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-189",
+   "name": "Shepherd",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-191",
+   "name": "Borges Rodrigues",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-192",
+   "name": "Andrews",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-197",
+   "name": "Bassette",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-153",
+   "name": "Disasi",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-199",
+   "name": "Benitez",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-204",
+   "name": "Mitchell",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-205",
+   "name": "Sosa",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-207",
+   "name": "Mingueza",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-212",
+   "name": "Hughes",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-220",
+   "name": "Cardines",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-221",
+   "name": "Drakes-Thomas",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-577",
+   "name": "Tomiyasu",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-228",
+   "name": "King",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-234",
+   "name": "Patterson",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-254",
+   "name": "Robinson",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-255",
+   "name": "J.Cuenca",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-256",
+   "name": "Tete",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-257",
+   "name": "Bassey",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    2
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-269",
+   "name": "Sessegnon",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-270",
+   "name": "Reed",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-272",
+   "name": "Kusi-Asare",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-626",
+   "name": "Zepa",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-274",
+   "name": "Butland",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-288",
+   "name": "Dowell",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-289",
+   "name": "Crooks",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-291",
+   "name": "Matazo",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-294",
+   "name": "Zambrano",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-297",
+   "name": "Gyabi",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-298",
+   "name": "Destan",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-299",
+   "name": "Burstow",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-300",
+   "name": "Walton",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-312",
+   "name": "Taylor",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-321",
+   "name": "Walle Egeli",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-323",
+   "name": "McAteer",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-554",
+   "name": "Van Oevelen",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-602",
+   "name": "Humphreys",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-326",
+   "name": "Perri",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-331",
+   "name": "Gudmundsson",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-333",
+   "name": "Bornauw",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-349",
+   "name": "Mateo Joseph",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-598",
+   "name": "Elvedi",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-604",
+   "name": "Cresswell",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-378",
+   "name": "McConnell",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-382",
+   "name": "Danns",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-386",
+   "name": "Bettinelli",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-395",
+   "name": "Lewis",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-396",
+   "name": "Vitor Reis",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-409",
+   "name": "Mukasa",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-621",
+   "name": "McAidoo",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-325",
+   "name": "Darlow",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-413",
+   "name": "Bayindir",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-421",
+   "name": "Heaven",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-422",
+   "name": "Mazraoui",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-437",
+   "name": "Bendito Mantato",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-438",
+   "name": "Fletcher",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-441",
+   "name": "Obi",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-443",
+   "name": "Gillespie",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-444",
+   "name": "Jaouen",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-466",
+   "name": "Neave",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-468",
+   "name": "John",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-474",
+   "name": "Jair Cunha",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-475",
+   "name": "Savona",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-478",
+   "name": "Netz",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-489",
+   "name": "Yates",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-590",
+   "name": "Benda",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-494",
+   "name": "Vicario",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-502",
+   "name": "Robertson",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-505",
+   "name": "Spence",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-506",
+   "name": "Udogie",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-507",
+   "name": "Phillips",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-524",
+   "name": "Olusesi",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-528",
+   "name": "Scarlett",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ST",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-601",
+   "name": "Williams-Barnett",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-531",
+   "name": "Ellborg",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-537",
+   "name": "Seelt",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 20.5,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-612",
+   "name": "Methalie",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-613",
+   "name": "Ahoka",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "MF",
+   "verletzt": false,
+   "preis": 20.5,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-31",
+   "name": "Konsa",
+   "verein": "Arsenal",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 19.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-113",
+   "name": "F.Kadıoğlu",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 19.8,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-206",
+   "name": "Chadi Riad",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 19.8,
+   "historie": [
+    2,
+    0
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-629",
+   "name": "Zetterer",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 19.1,
+   "historie": [],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-175",
+   "name": "van Ewijk",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.4,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-176",
+   "name": "Dasilva",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.4,
+   "historie": [
+    1,
+    2
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-259",
+   "name": "Diop",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.4,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-304",
+   "name": "O'Shea",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.4,
+   "historie": [
+    2,
+    1
+   ],
+   "gesamt": 3,
+   "punkte": 1.5
+  },
+  {
+   "id": "PL-38",
+   "name": "A.García",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-39",
+   "name": "Nedeljkovic",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-606",
+   "name": "Rowe",
+   "verein": "Aston Villa",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-58",
+   "name": "Forster",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-59",
+   "name": "Dennis",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-66",
+   "name": "Soler",
+   "verein": "Bournemouth",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-111",
+   "name": "Steele",
+   "verein": "Brighton",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-171",
+   "name": "Dovin",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-174",
+   "name": "Kitching",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-177",
+   "name": "Kesler-Hayden",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-178",
+   "name": "Bidwell",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-179",
+   "name": "Latibeaudiere",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-180",
+   "name": "Woolfenden",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-181",
+   "name": "Brau",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-182",
+   "name": "Amenda",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-623",
+   "name": "Bentley",
+   "verein": "Coventry City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-555",
+   "name": "Matthews",
+   "verein": "Crystal Palace",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-235",
+   "name": "Aznou",
+   "verein": "Everton",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-251",
+   "name": "Lecomte",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-252",
+   "name": "McNally",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-610",
+   "name": "De Fougerolles",
+   "verein": "Fulham",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-273",
+   "name": "Phillips",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-275",
+   "name": "Cartwright",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-276",
+   "name": "Lo-Tutala",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-278",
+   "name": "Hughes",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-281",
+   "name": "Drameh",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-283",
+   "name": "Jacob",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-284",
+   "name": "McCarthy",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-285",
+   "name": "McNair",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-556",
+   "name": "Targett",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-585",
+   "name": "Herrington",
+   "verein": "Hull City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-301",
+   "name": "Palmer",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-302",
+   "name": "Button",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-303",
+   "name": "Kipré",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-306",
+   "name": "Greaves",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    2,
+    -2
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-307",
+   "name": "Johnson",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-308",
+   "name": "Furlong",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-592",
+   "name": "Ouattara",
+   "verein": "Ipswich Town",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    1
+   ],
+   "gesamt": 2,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-603",
+   "name": "Lienou",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-625",
+   "name": "Cairns",
+   "verein": "Leeds",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-352",
+   "name": "Woodman",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-353",
+   "name": "Pecsi",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-354",
+   "name": "Jaros",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-355",
+   "name": "Davies",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-361",
+   "name": "Lucky",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-363",
+   "name": "Leoni",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-365",
+   "name": "Ramsay",
+   "verein": "Liverpool",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-622",
+   "name": "Braithwaite",
+   "verein": "Man City",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1
+   ],
+   "gesamt": 1,
+   "punkte": 1.0
+  },
+  {
+   "id": "PL-414",
+   "name": "Heaton",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-424",
+   "name": "Amass",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-425",
+   "name": "Fredricson",
+   "verein": "Man Utd",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-451",
+   "name": "A.Murphy",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-609",
+   "name": "Shahar",
+   "verein": "Newcastle",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-476",
+   "name": "O.Richards",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-477",
+   "name": "Abbott",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-479",
+   "name": "Bindon",
+   "verein": "Nott'm Forest",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-495",
+   "name": "Austin",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-497",
+   "name": "Dubravka",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-508",
+   "name": "Davies",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-509",
+   "name": "Byfield",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-510",
+   "name": "Rowswell",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-511",
+   "name": "Souza",
+   "verein": "Spurs",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-530",
+   "name": "Patterson",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "TW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-538",
+   "name": "Hjelde",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  },
+  {
+   "id": "PL-539",
+   "name": "O'Nien",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": false,
+   "preis": 17.2,
+   "historie": [
+    1,
+    0
+   ],
+   "gesamt": 1,
+   "punkte": 0.5
+  },
+  {
+   "id": "PL-540",
+   "name": "Masuaku",
+   "verein": "Sunderland",
+   "liga": "PL",
+   "pos": "ABW",
+   "verletzt": true,
+   "preis": 17.2,
+   "historie": [
+    0,
+    0
+   ],
+   "gesamt": 0,
+   "punkte": 0.0
+  }
+ ]
+}
